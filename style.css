@@ -1,0 +1,10 @@
+.header-bg-color {
+  background: #264653;
+}
+.button-bg-color {
+  background: #e76f51;
+  padding: 10px 45px;
+  border: none;
+  border-radius: 5px;
+  /* color: white; */
+}
