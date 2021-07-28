@@ -4,6 +4,13 @@ body {
 .header-bg-color {
   background: #264653;
 }
+.button-color {
+  background: #e76f51;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
 .button-bg-color {
   background: #e76f51;
   padding: 10px 45px;
@@ -11,6 +18,7 @@ body {
   border-radius: 5px;
   color: white;
 }
+
 .icon-color {
   color: #e76f51;
 }
