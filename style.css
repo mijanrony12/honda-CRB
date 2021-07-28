@@ -31,3 +31,9 @@ body {
 .contact-bg-color {
   background: #e8f0f2;
 }
+.image-hover {
+  transition: 1s;
+}
+.image-hover:hover {
+  transform: translate(0px, -80px);
+}
